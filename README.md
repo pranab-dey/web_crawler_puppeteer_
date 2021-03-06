@@ -5,7 +5,7 @@ This is a demo web crawler for a website (link : http://books.toscrape.com)
 I've used puppeteer to scrape all the data.
 
 Functionalities are:
-1. setup browser nstance
+1. setup browser instance
 2. scrape all book  Urls from landing page.
 3. from that urls, by crawling, gathered all book information individually
 4. check for pagnation and automates if pagination exist and gathered data
