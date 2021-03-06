@@ -1,0 +1,23 @@
+{
+	"name": "web_crawler",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node  --experimental-json-modules src/index.mjs "
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pranab-dey/Web_Crawler_Puppeteer.git"
+	},
+	"author": "Pranab Dey",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pranab-dey/Web_Crawler_Puppeteer/issues"
+	},
+	"homepage": "https://github.com/pranab-dey/Web_Crawler_Puppeteer#readme",
+	"dependencies": {
+		"puppeteer": "^8.0.0"
+	}
+}
